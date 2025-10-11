@@ -22,7 +22,6 @@ Aqui você encontra prints das etapas realizadas e anotações do processo.
 
 Abaixo alguns registros do processo realizado no console da AWS:
 
-<!-- 👇 Troque "NOME-DO-ARQUIVO.png" pelo nome do print que você subiu -->
 ![Print 1](captura1.png)  
 ![Print 2](captura2.png)  
 ![Print 3](captura3.png)  
